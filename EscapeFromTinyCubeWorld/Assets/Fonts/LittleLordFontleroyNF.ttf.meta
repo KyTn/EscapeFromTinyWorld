@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: e42790d2bb9d01248b8925a101b19104
+timeCreated: 1492946193
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 70
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Little Lord Fontleroy NF
+  fontNames:
+  - Little Lord Fontleroy NF
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
